@@ -5,10 +5,10 @@ is on creating an edge model that will operate fully on mobile or other edge dev
 
 ## Tech Stack
 * Pytorch
-* Lightning; A third party library built on top of Pytorch which aims to hyper-resonate the speed of Pytorch models and tasks
-* torchvision; A pytorch lib dedicated to computer vision tasks
-* Albumentations; A third party lib for image and bounding box augmentations
+* Lightning: A third party library built on top of Pytorch which aims to hyper-resonate the speed of Pytorch models and tasks
+* torchvision: A pytorch lib dedicated to computer vision tasks
+* Albumentations: A third party lib for image and bounding box augmentations
 * Libraries like orjson, sklearn, matplotlib, seaborn
-* cv2; a computer vision library
+* cv2: a computer vision library
 
 The project is currently under development.
