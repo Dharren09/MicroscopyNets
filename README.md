@@ -11,4 +11,5 @@ is on creating an edge model that will operate fully on mobile or other edge dev
 * Libraries like orjson, sklearn, matplotlib, seaborn
 * cv2: a computer vision library
 
+## Progress
 The project is currently under development.
